@@ -1,0 +1,24 @@
+.container h1{
+   background-color:greenyellow;
+   padding-top: 60px;
+   padding-bottom: 60px;
+   text-align: center;
+   margin: 0px;
+}
+.col-md-3{
+  background-color: orange;
+  font-size: 25px;
+  padding-top:25px;
+  margin-top: 20px;
+}
+.col-md-9{
+  padding-left: 40px;
+  font-size: 25px;
+  padding-top: 25px;
+}
+h3{
+  font-size: 30px;
+}
+#LVK{
+  padding-top: 15px;
+}
