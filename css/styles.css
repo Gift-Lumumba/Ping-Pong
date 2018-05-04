@@ -4,6 +4,8 @@
    padding-bottom: 60px;
    text-align: center;
    margin: 0px;
+   font-size: 65px;
+   font-style: oblique;
 }
 .col-md-3{
   background-color: orange;
@@ -13,7 +15,7 @@
 }
 .col-md-9{
   padding-left: 40px;
-  font-size: 25px;
+  font-size: 23px;
   padding-top: 25px;
 }
 h3{
