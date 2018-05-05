@@ -1,39 +1,39 @@
-body{
+body {
   background-color:grey;
 }
-.container{
+.container {
   background-color: rgb(9, 37, 9);    
 }
-.container h1{
+.container h1 {
    background-color:black;
    padding-top: 60px;
    padding-bottom: 60px;
    text-align: center;
    margin: 0px;
 }
-.col-md-3{
+.col-md-3 {
   background-color: orange;
   font-size: 25px;
   padding-top:25px;
   margin-top: 20px;
 }
-.pongg{
+.pongg {
   padding-top: 75px;
   padding-right: 30px;
 }
-.playy{
+.playy {
   font-size: 50px;
   color:rgb(167, 11, 11);
 }
-.rules{
+.rules {
   font-size: 50px;
   color:rgb(167, 11, 11);
 }
-ol{
+ ol{
   color: white;
   font-style: italic;
 }
-.col-md-9{
+.col-md-9 {
   padding-left: 40px;
   font-size: 25px;
   padding-top: 25px;
