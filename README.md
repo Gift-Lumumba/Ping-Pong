@@ -14,9 +14,9 @@
   ## Technologies Used
   * The site has incorporated the use of html in the writing of the webpage.
   * The site has also demonstrates a clear use of Bootstrap,CSS and JavaScript.
-  
+
   ##Link to live site on GitHub Pages
-  *Here's the link to the live site of this project on GitHub Pages:[My Website](https://gift-lumumba.github.io/Ping-Pong/)
+  Here's the link to the live site of this project on GitHub Pages:[My Website](https://gift-lumumba.github.io/Ping-Pong/)
 
   ## Support and contact details
   For assistance and Queries please email giftlumumba2@gmail.com or call +254711419032.
