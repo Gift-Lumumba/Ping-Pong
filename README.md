@@ -1,4 +1,8 @@
+<<<<<<< HEAD
   # Ping-Pong
+=======
+# Ping-Pong
+>>>>>>> 84ee62e8474d408c7c0ad244a1ec9daaf5b25c28
   # Gift Lumumba
   #### Ping-pong is a JavaScript based application that takes the user's input and outputs it as either 'ping','pong' or 'ping-pong'
   5th May 2018 11.26AM
@@ -22,4 +26,8 @@
   For assistance and Queries please email giftlumumba2@gmail.com or call +254711419032.
   ### License
   *MIT 2018.*
+<<<<<<< HEAD
   Copyright (c) 2018 **Gift Lumumba**
+=======
+  Copyright (c) 2018 **Gift Lumumba**
+>>>>>>> 84ee62e8474d408c7c0ad244a1ec9daaf5b25c28
