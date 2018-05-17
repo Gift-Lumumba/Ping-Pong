@@ -1,6 +1,5 @@
 
-# Ping-Pong
-
+  # Ping-Pong
   # Gift Lumumba
   #### Ping-pong is a JavaScript based application that takes the user's input and outputs it as either 'ping','pong' or 'ping-pong'
   5th May 2018 11.26AM
