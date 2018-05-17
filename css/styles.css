@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   background-color:grey;
 }
@@ -5,6 +6,15 @@ body {
   background-color: rgb(9, 37, 9);    
 }
 .container h1 {
+=======
+body{
+  background-color:grey;
+}
+.container{
+  background-color: rgb(9, 37, 9);    
+}
+.container h1{
+>>>>>>> 1e0c90ff44f20fee66c8fee899c375aeb14dc0d8
    background-color:black;
    padding-top: 60px;
    padding-bottom: 60px;
@@ -17,6 +27,7 @@ body {
   padding-top:25px;
   margin-top: 20px;
 }
+<<<<<<< HEAD
 .pongg {
   padding-top: 75px;
   padding-right: 30px;
@@ -34,6 +45,25 @@ body {
   font-style: italic;
 }
 .col-md-9 {
+=======
+.pongg{
+  padding-top: 75px;
+  padding-right: 30px;
+}
+.playy{
+  font-size: 50px;
+  color:rgb(167, 11, 11);
+}
+.rules{
+  font-size: 50px;
+  color:rgb(167, 11, 11);
+}
+ol{
+  color: white;
+  font-style: italic;
+}
+.col-md-9{
+>>>>>>> 1e0c90ff44f20fee66c8fee899c375aeb14dc0d8
   padding-left: 40px;
   font-size: 25px;
   padding-top: 25px;
